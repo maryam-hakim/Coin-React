@@ -1,0 +1,40 @@
+.coin_container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border: 1px solid silver;
+    width: 110vh;
+    margin: 0 300px;
+    padding: 10px 20px;
+    
+}
+
+.coin_container img{
+    width: 50px;
+}
+
+.name{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+span{
+    width: 100px;
+    text-align: left;
+    color: #333333;
+}
+
+.greenPriceChange , 
+.redPriceChange{
+    width: 100px;
+    text-align: left;
+}
+
+.redPriceChange{
+    color: red;
+}
+
+.greenPriceChange{
+    color: green;
+}

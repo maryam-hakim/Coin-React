@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Dosis_bold";
+    src: url(./fonts/Dosis-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Dosis_light";
+    src: url(./fonts/Dosis-Light.ttf);
+}
+
+@font-face {
+    font-family: "Dosis_medium";
+    src: url(./fonts/Dosis-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Dosis_regular";
+    src: url(./fonts/Dosis-Regular.ttf);
+}
+

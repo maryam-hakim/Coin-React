@@ -1,0 +1,19 @@
+.landing{
+    border-radius: 5px;
+}
+
+.landing_input{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    width: 300px;
+    margin-top: 50px;
+    height: 20px;
+    transition: all 0.2s ease;
+}
+
+.landing_input:focus{
+    outline: none;
+    border-color: white;
+    background-color: white;
+}
